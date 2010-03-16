@@ -5,7 +5,7 @@
 		<item name="android:typeface">monospace</item>
 	</style>
 	<style name="InYourFaceFont">
-		<item name="android:textSize">17sp</item>
+		<item name="android:textSize">18sp</item>
 		<item name="android:typeface">monospace</item>
 	</style>
 </resources>
